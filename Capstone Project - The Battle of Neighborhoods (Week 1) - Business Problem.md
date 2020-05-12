@@ -1,0 +1,3 @@
+Suppose that a person plans to move from their own country to an entirely different country for a new job. Moving to a new place can sometimes be difficult, especially if it is an unfamiliar and strange place. Let's assume that one way to ease the moving process is to make sure that the new place is somehow familiar, at least in terms of the neighborhood.
+
+In this project, I will make a recommendation model that predicts which neighborhoods near a specified location are most suitable to live in for a person coming from a different neighborhood based on establishments or venues from their own neighborhood to the candidate neighborhoods.
